@@ -56,26 +56,6 @@ If you are unable to find answers by using self-help resources, you can open an 
 8. Provide your contact information and select **Create**.
   ![Problem category self-help screenshot](./media/active-directory-troubleshooting-support-howto/open-support-ticket.png)
 
-### How to open a support ticket for Azure AD in the Microsoft 365 admin center
-
-> [!NOTE]
-> Support for Azure AD in the [Microsoft 365 admin center](https://admin.microsoft.com) is offered for administrators only. 
-
-1. Sign in to the [Microsoft 365 admin center](https://admin.microsoft.com) with an account that has an Enterprise Mobility + Security (EMS) license.
-
-2. On the **Support** tile, select **New service request**:
-
-3. On the **Support Overview** page, select **Identity management** or **User and domain management**:
-
-4. For **Feature**, select the Azure AD feature for which you want support.
-
-5. For **Symptom**, select an appropriate symptom, summarize your issue and provide relevant details, and then select **Next**.
-
-6. Select one of the offered self-help resources, or select **Yes, continue** or **No, cancel request**.
-
-7. If you continue, you are asked for more details. You can attach any files you have that represent the problem, and then select **Next**.
-
-8. Provide your contact information and select **Submit request**.
 
 ## Get phone support
 
